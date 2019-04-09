@@ -1,0 +1,18 @@
+h3 {
+    margin: 0;
+}
+
+.card {
+    margin: 15px 0;
+    border: 1px solid gray;
+}
+
+.card-header {
+    padding: 5px 10px;
+    background-color: #eee;
+}
+
+.card-body {
+    padding: 5px 10px;
+    font-size: 18px;
+}
