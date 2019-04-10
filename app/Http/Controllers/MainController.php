@@ -3,7 +3,7 @@
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
 
-use App\Project;
+use App\Models\Projects\Project;
 use Illuminate\Http\Request;
 
 class MainController extends Controller {
